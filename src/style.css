@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  background-color: gray;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
