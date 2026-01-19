@@ -12,7 +12,7 @@
     
         <div class="flex gap-x-10 flex-wrap items-center">
             <a href="/">Sign in</a>
-            <DefaultButton class=" rounded-sm">Start Trial</DefaultButton>
+            <DefaultButton>Start Trial</DefaultButton>
         </div>
     </div>
   </div>

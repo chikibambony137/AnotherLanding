@@ -1,16 +1,18 @@
 <template>
   <Header></Header>
-  <!-- <Hero></Hero>
   <main>
-    <HowItWorks></HowItWorks>
+    <Hero></Hero>
+
+    <!-- <HowItWorks></HowItWorks>
     <Video></Video>
-    <OurProduct></OurProduct>
+    <OurProduct></OurProduct> -->
   </main>
-  <Footer></Footer> -->
+  <!-- <Footer></Footer> -->
 </template>
 
 <script lang="ts" setup>
-  import Header from './components/blocks/Header.vue';
+import Header from "./components/blocks/Header.vue";
+import Hero from "./components/sections/Hero.vue";
 </script>
 
 <style></style>
