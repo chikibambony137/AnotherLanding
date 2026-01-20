@@ -1,10 +1,11 @@
 <template>
-  <div class="w-full">
-    <img class="absolute -z-1 " src="../../assets/bg_hero.png" alt="" />
-
+  <div 
+    :style="{ backgroundImage: `url(${bgImage})` }" 
+    class="w-full min-h-170 bg-cover bg-center bg-no-repeat"
+  >
     <div class="md:container md:mx-auto xl:px-60 px-5 xl:pt-32 pt-10">
-      <div class="w-110 grid gap-10 ">
-        <h2 class=" text-6xl text-[#01996d] font-bold">
+      <div class="w-110 grid gap-10">
+        <h2 class="text-6xl text-[#01996d] font-bold">
           Be aware,
           Manage well.
         </h2>
@@ -25,6 +26,7 @@
 
 <script lang="ts" setup>
 import DefaultButton from "../buttons/DefaultButton.vue";
+import bgImage from "../../assets/bg_hero.png";
 </script>
 
 <style></style>
