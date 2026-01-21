@@ -2,10 +2,9 @@
   <Header></Header>
   <main>
     <Hero></Hero>
-
-     <HowItWorks></HowItWorks>
+    <HowItWorks></HowItWorks>
     <Story></Story>
-   <!-- <OurProduct></OurProduct> -->
+    <OurProduct></OurProduct>
   </main>
   <!-- <Footer></Footer> -->
 </template>
@@ -15,6 +14,7 @@ import Header from "./components/blocks/Header.vue";
 import Hero from "./components/sections/Hero.vue";
 import HowItWorks from "./components/sections/HowItWorks.vue";
 import Story from "./components/sections/Story.vue";
+import OurProduct from "./components/sections/OurProduct.vue";
 </script>
 
 <style></style>

@@ -1,14 +1,14 @@
 <template>
   <div class="md:container md:mx-auto xl:px-60 px-5 xl:pt-20 py-10">
-    <div class="grid grid-cols-[3fr_4fr]">
+    <div class="grid sm:grid-cols-[3fr_4fr]">
       <div>
         <h1>How it works</h1>
-        <h2 class="text-4xl text-[#01996d] font-bold leading-relaxed">
+        <h2 class="text-4xl text-[#01996d] font-bold leading-normal">
           Understand & Release the stress in 3 steps
         </h2>
       </div>
 
-      <div class="py-8 pl-20">
+      <div class="py-8 md:pl-6 lg:pl-20">
         <p>
           Alivio offers as many journals it takes, tackling different areas such
           as anxiety, overwhelmedness, sadness, or anger, and a variety of
