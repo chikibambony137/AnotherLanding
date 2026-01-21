@@ -4,8 +4,8 @@
     <Hero></Hero>
 
      <HowItWorks></HowItWorks>
-    <!--<Video></Video>
-    <OurProduct></OurProduct> -->
+    <Story></Story>
+   <!-- <OurProduct></OurProduct> -->
   </main>
   <!-- <Footer></Footer> -->
 </template>
@@ -14,6 +14,7 @@
 import Header from "./components/blocks/Header.vue";
 import Hero from "./components/sections/Hero.vue";
 import HowItWorks from "./components/sections/HowItWorks.vue";
+import Story from "./components/sections/Story.vue";
 </script>
 
 <style></style>
