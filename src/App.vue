@@ -6,7 +6,7 @@
     <Story></Story>
     <OurProduct></OurProduct>
   </main>
-  <!-- <Footer></Footer> -->
+  <Footer></Footer>
 </template>
 
 <script lang="ts" setup>
@@ -15,6 +15,7 @@ import Hero from "./components/sections/Hero.vue";
 import HowItWorks from "./components/sections/HowItWorks.vue";
 import Story from "./components/sections/Story.vue";
 import OurProduct from "./components/sections/OurProduct.vue";
+import Footer from "./components/blocks/Footer.vue";
 </script>
 
 <style></style>
