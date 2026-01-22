@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div>
     <div class="relative pt-22">
       <span id="number" class="absolute top-0 -z-1 text-9xl text-[#02996e3d]"
         >0{{ props.num }}</span

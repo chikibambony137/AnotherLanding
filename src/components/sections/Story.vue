@@ -3,7 +3,7 @@
     class="bg-[#255953] ">
     <div class="md:container md:mx-auto xl:px-60 px-5 lg:py-40 py-20">
         <div class="grid lg:grid-cols-[2fr_3fr] gap-x-4">
-          <div class="text-white py-10">
+          <div class="text-white pb-10">
             <h2 class="text-4xl font-bold leading-relaxed">
               Let's hear about Kayla's success story
             </h2>

@@ -18,7 +18,7 @@
       </div>
     </div>
 
-    <div class="grid md:grid-cols-3 gap-20">
+    <div class="grid md:grid-cols-3 gap-10 md:gap-20">
       <Step
         :num="1"
         title="Personalize"
